@@ -1,6 +1,3 @@
-Here’s a **GitHub README.md** file tailored for your two files (`PDD.ipynb` and `front.py`) that describes your **Plant Disease Detection System** project clearly and professionally.
-
----
 
 ```markdown
 # 🌱 Plant Disease Detection System for Sustainable Agriculture
